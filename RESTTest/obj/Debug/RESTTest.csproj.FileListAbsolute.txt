@@ -1,0 +1,8 @@
+C:\Users\Williams\Documents\Visual Studio 2015\Projects\Servicio\RESTTest\bin\Debug\ApplicationInsights.config
+C:\Users\Williams\Documents\Visual Studio 2015\Projects\Servicio\RESTTest\bin\Debug\RESTTest.dll
+C:\Users\Williams\Documents\Visual Studio 2015\Projects\Servicio\RESTTest\bin\Debug\RESTTest.pdb
+C:\Users\Williams\Documents\Visual Studio 2015\Projects\Servicio\RESTTest\bin\Debug\ServicioREST.dll
+C:\Users\Williams\Documents\Visual Studio 2015\Projects\Servicio\RESTTest\bin\Debug\ServicioREST.pdb
+C:\Users\Williams\Documents\Visual Studio 2015\Projects\Servicio\RESTTest\obj\Debug\RESTTest.csprojResolveAssemblyReference.cache
+C:\Users\Williams\Documents\Visual Studio 2015\Projects\Servicio\RESTTest\obj\Debug\RESTTest.dll
+C:\Users\Williams\Documents\Visual Studio 2015\Projects\Servicio\RESTTest\obj\Debug\RESTTest.pdb
