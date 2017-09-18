@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicioREST", "ServicioREST\ServicioREST.csproj", "{05F990B2-D48A-4ADC-958F-8A87603D9D37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTTest", "RESTTest\RESTTest.csproj", "{02E926DB-9118-44A0-9DD2-7439E03F95C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05F990B2-D48A-4ADC-958F-8A87603D9D37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F990B2-D48A-4ADC-958F-8A87603D9D37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F990B2-D48A-4ADC-958F-8A87603D9D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F990B2-D48A-4ADC-958F-8A87603D9D37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02E926DB-9118-44A0-9DD2-7439E03F95C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02E926DB-9118-44A0-9DD2-7439E03F95C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02E926DB-9118-44A0-9DD2-7439E03F95C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02E926DB-9118-44A0-9DD2-7439E03F95C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
